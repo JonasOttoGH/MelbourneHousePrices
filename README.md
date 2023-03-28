@@ -3,6 +3,9 @@ A portfolio project looking at the house prices in Melbourne
 
 This is another project that was done through processing data through Excel and Microsoft SQL. Later using Tableau to display the visualisation of the data.
 
+Data:
+Dataset was downloaded from Kaggle
+
 Tools used to process data:
 Microsoft Excel
 Microsoft SQL server
