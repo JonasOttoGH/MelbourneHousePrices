@@ -1,5 +1,5 @@
 # MelbourneHousePrices
-A portfolio project looking at the house prices in Melbourne in 2016
+A portfolio project looking at the house prices in Melbourne in 2016 
 
 This is another project that was done through processing data through Excel and Microsoft SQL. Later using Tableau to display the visualisation of the data.
 
