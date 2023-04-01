@@ -20,7 +20,7 @@ Tools used to process data:
 
 Analyse/Share: Finally, a visualisation was made using Tableau. 
 
-Link to view final product: https://public.tableau.com/views/MelbourneHousePrices_16799037794670/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
+- Link to view final product: https://public.tableau.com/views/MelbourneHousePrices_16799037794670/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Act: Summary of the insights gained from Tableau Visualization
 - Although house prices dipped quite significantly during July, they have overall gradually increased over time throughout 2016.
