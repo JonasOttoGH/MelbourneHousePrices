@@ -9,9 +9,11 @@ Ask: Questions to Analyse:
 - What is the most common type of house sold in Melbourne?
 
 Prepare:
-Dataset was downloaded from Kaggle.com 
+- Dataset was downloaded from Kaggle.com
+- Dataset was also somewhat prepared using Microsoft Excel
 
 Process:  Please refer to script provided for more detail on how it was processed in Microsoft SQL Server
+
 Tools used to process data:
 - Microsoft Excel
 - Microsoft SQL server
